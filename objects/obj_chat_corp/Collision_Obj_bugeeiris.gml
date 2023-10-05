@@ -2,21 +2,23 @@
 // You can write your code in this editor
 
 
-if player = new player_dante(){
-	room_goto(Tel_mort_dant)
-} 
-	
-if player = new player_eeiris(){
+if global.tel_mort = 1{
 	room_goto(Tel_mort_eeiris)
 }
 	
-if player = new player_meimei(){
+if global.tel_mort = 2{
 	room_goto(Tel_mort_mei)
 }
 	
-if player = new player_tozi(){
+if global.tel_mort = 3{
 	room_goto(Tel_mort_tozi)
 }
+
+if global.tel_mort = 4{
+	room_goto(Tel_mort_dant)
+} 
+	
+
 
 
 

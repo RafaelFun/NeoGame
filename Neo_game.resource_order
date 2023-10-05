@@ -24,6 +24,7 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"config","order":8,"path":"folders/Sprites/config.yy",},
     {"name":"cutscene","order":9,"path":"folders/Sprites/cutscene.yy",},
+    {"name":"fundo","order":11,"path":"folders/Sprites/fundo.yy",},
     {"name":"personagens","order":3,"path":"folders/Sprites/personagens.yy",},
     {"name":"vilões","order":5,"path":"folders/Sprites/personagens/vilões.yy",},
     {"name":"portas","order":4,"path":"folders/Sprites/portas.yy",},
@@ -33,7 +34,6 @@
     {"name":"mei","order":7,"path":"folders/Sprites/roupas/mei.yy",},
     {"name":"tozi","order":8,"path":"folders/Sprites/roupas/tozi.yy",},
     {"name":"tela_morte","order":10,"path":"folders/Sprites/tela_morte.yy",},
-    {"name":"fundo","order":11,"path":"folders/Sprites/fundo.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"Spr_chattozi_AC","order":5,"path":"sprites/Spr_chattozi_AC/Spr_chattozi_AC.yy",},

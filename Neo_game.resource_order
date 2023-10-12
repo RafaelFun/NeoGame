@@ -19,7 +19,6 @@
     {"name":"portas","order":2,"path":"folders/Objetos/portas.yy",},
     {"name":"Scripts","order":5,"path":"folders/Scripts.yy",},
     {"name":"Sequencias","order":15,"path":"folders/Sequencias.yy",},
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Sons","order":3,"path":"folders/Sons.yy",},
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"config","order":8,"path":"folders/Sprites/config.yy",},

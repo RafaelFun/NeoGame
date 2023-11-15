@@ -1,5 +1,4 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Não atravessar a parede
 
 
 move_bounce_all(true)

@@ -23,7 +23,6 @@ function player_eeiris() constructor {
 	Spr_player_andando_ladoD = Spr_chateeiris_AD
 	
 
-	global.tel_mort = 1
 
 }
 
@@ -50,7 +49,7 @@ function player_meimei() constructor {
 	
 	Spr_player_andando_ladoD = Spr_chatmei_PF
 	
-	global.tel_mort = 2
+
 }
 
 function player_tozi() constructor {
@@ -76,7 +75,7 @@ function player_tozi() constructor {
 	
 	Spr_player_andando_ladoD = Spr_chattozi_AD
 	
-	global.tel_mort = 3
+
 	
 }
 
@@ -105,11 +104,8 @@ function player_dante() constructor {
 	
 	
 	
-	global.tel_mort = 4
-	
 	
 	
 }
-	global.tel_mort = 0
 	global.player_escolha = 0
 	global.escolhendo_player = true

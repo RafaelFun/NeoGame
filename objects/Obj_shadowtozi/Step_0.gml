@@ -3,21 +3,20 @@
 var x_randon = random_range(32,1730)
 var y_randon = random_range(32,1730)
 
-if somb <= 5 { // Verifica se o número de sombras é menor que 5
+if somb <= 5 { // Verifica se o número de clones é menor que 5
 	
-    instance_create_layer(x_randon, y_randon,"instances", Obj_sombra); // Cria uma nova sombra
+    instance_create_layer(x_randon, y_randon,"instances", Obj_sombra); // Cria um novo clone
 	somb ++
 } if somb = 5{
     with (Obj_sombra) {
-		
-        // Encontre uma sombra e destrua-a
-		
+        // Encontre um clone e destrua-o
         if (other == id) {
             instance_destroy();
 			somb--
         }
     }
 }
+
 
 
 if point_distance(x,y,global.player.x,global.player.y)< 100{
